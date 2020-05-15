@@ -1,2 +1,2 @@
 # BatteryTime
-Short app showing bettery info on the toolbar. Work in progrss.
+Short app showing battery info on the toolbar. Work in progrss.
