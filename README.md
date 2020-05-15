@@ -1,7 +1,2 @@
 # BatteryTime
-Pierwotny zamysł - powiadomienie o pozostałych 5 minutach pracy baterii.
-# Plany:
--j.w.
--powiadomienie o baterii naładowanej do 90%
--informacja o pozostałych 80%, 50%, 20%
-
+Short app showing bettery info on the toolbar. Work in progrss.
